@@ -1,0 +1,7 @@
+vertexai
+langchain
+google-cloud-aiplatform
+google-cloud-storage
+tqdm
+pandas
+fastapi
